@@ -17,10 +17,5 @@
   "templateDirectory": "templates",
   "type": "mixture",
   "useCompass": false,
-  "followLeader": true,
-    "routes": [
-        { "route": "blog/page-:page", "template": "blog", "redirect": null },
-        { "route": "blog/date/:month/:year", "template": "blog", "redirect": null },
-        { "route": "portfolio/category/:category", "template": "portfolio", "redirect": null }
-    ]
+  "followLeader": true
 }

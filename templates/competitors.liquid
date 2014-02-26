@@ -3,7 +3,7 @@
 
 {% block content %}
 
-	{% collection "competitors" %}
+	{% collection "docs" query 'tags=competitor' %}
  		{% include "competitor/review" with collection.items %}
 	{% endcollection %}
 

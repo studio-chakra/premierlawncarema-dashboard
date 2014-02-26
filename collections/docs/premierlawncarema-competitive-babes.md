@@ -1,5 +1,7 @@
 ---
 title: Babe's Lawn Care, Inc.
+tags: [competitor]
+alias: babes
 published: true
 ---
 
@@ -15,12 +17,12 @@ http://www.babeslawncare.com/
 ***
 
 ### Screenshots
-![](https://raw.github.com/studiochakra/premierlawncarema/gh-pages/assets/competitor-screenshots/babes-1.png)
-![](https://raw.github.com/studiochakra/premierlawncarema/gh-pages/assets/competitor-screenshots/babes-2.png)
-![](https://raw.github.com/studiochakra/premierlawncarema/gh-pages/assets/competitor-screenshots/babes-3.png)
-![](https://raw.github.com/studiochakra/premierlawncarema/gh-pages/assets/competitor-screenshots/babes-4.png)
-![](https://raw.github.com/studiochakra/premierlawncarema/gh-pages/assets/competitor-screenshots/babes-5.png)
-![](https://raw.github.com/studiochakra/premierlawncarema/gh-pages/assets/competitor-screenshots/babes-6.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-1.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-2.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-3.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-4.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-5.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-6.png)
 
 
 ### Description
