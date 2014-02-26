@@ -1,0 +1,10 @@
+{% block title %}Competitor Reviews{% endblock %}
+{% block lead %}{% endblock %}
+
+{% block content %}
+
+	{% collection "competitors" %}
+ 		{% include "competitor/review" with collection.items %}
+	{% endcollection %}
+
+{% endblock %}
