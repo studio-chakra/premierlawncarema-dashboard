@@ -1,5 +1,5 @@
 ---
-title: Competitor Comparison Notes
+title: Competitor Analysis
 tags: [competitor,notes]
 alias: comparison
 published: true
@@ -7,7 +7,7 @@ published: true
 
 ###### Premier Lawn Care MA
 
-### Competitor Comparison Notes
+### Competitor Analysis
 
 This document outlines and pulls together everything that I found in the indivdiual competitive reviews. It can be used as a reference for common patterns and a summary of features from each review.
 
